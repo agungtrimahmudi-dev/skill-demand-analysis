@@ -1,5 +1,5 @@
 # Skill Gap Report — Industrial Demand vs Agung's Skills
-*Generated: 2026-08-10 03:19 | Jobs analyzed: 329*
+*Generated: 2026-08-18 07:38 | Jobs analyzed: 329*
 
 ## 📊 Top 30 Demanded Skills
 | Rank | Skill | Demand (#JD) | % of Jobs | Agung Has | Priority |
@@ -49,7 +49,7 @@
 - **rag (retrieval-augmented generation)** → rag(163), n8n workflow sdk (typescript)(162), prompt engineering / system-prompt design (mode-switching, grounding instruction, larangan halusinasi eksplisit)(89), api contract design(87), fastapi (service http untuk dipanggil n8n)(71)
 - **n8n** → api contract design(125), n8n workflow sdk (typescript)(89), git(76), etl / normalisasi data multi-sumber (format tanggal beda-beda, split rentang tanggal, gabung tanpa vlookup)(75), rag(70)
 - **java** → api contract design(100), n8n workflow sdk (typescript)(91), rag(75), git(73), react & typescript (komponen, state management, hooks, tipe aman)(71)
-- **git** → api contract design(104), n8n workflow sdk (typescript)(82), n8n(76), rag(73), java(73)
+- **git** → api contract design(104), n8n workflow sdk (typescript)(82), n8n(76), java(73), rag(73)
 - **prompt engineering / system-prompt design (mode-switching, grounding instruction, larangan halusinasi eksplisit)** → n8n workflow sdk (typescript)(102), rag (retrieval-augmented generation)(89), rag(88), api contract design(68), fastapi (service http untuk dipanggil n8n)(57)
 - **browser automation scraping (playwright)** → api contract design(96), automation(92), n8n workflow sdk (typescript)(87), n8n reliability & governance(82), rag(72)
 - **etl / normalisasi data multi-sumber (format tanggal beda-beda, split rentang tanggal, gabung tanpa vlookup)** → n8n workflow sdk (typescript)(98), api contract design(81), n8n(75), rag(73), workflow(66)
